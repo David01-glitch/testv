@@ -1,0 +1,14 @@
+{
+  "name": "da-01",
+  "version": "1.0.0",
+  "description": "My website",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": "18.x"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
